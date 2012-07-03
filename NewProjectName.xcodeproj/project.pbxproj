@@ -24,17 +24,17 @@
 		3CAB55D415A2F15A00823AD9 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		3CAB55D615A2F15A00823AD9 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		3CAB55D815A2F15A00823AD9 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		3CAB55DC15A2F15A00823AD9 /* NewProjectName-Info.plist */ = {isa = PBXFileReference; path = "NewProjectName-Info.plist"; sourceTree = "<group>"; };
+		3CAB55DC15A2F15A00823AD9 /* NewProjectName-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "NewProjectName-Info.plist"; sourceTree = "<group>"; };
 		3CAB55DE15A2F15A00823AD9 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		3CAB55E015A2F15A00823AD9 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		3CAB55E215A2F15A00823AD9 /* NewProjectName-Prefix.pch */ = {isa = PBXFileReference; path = "NewProjectName-Prefix.pch"; sourceTree = "<group>"; };
-		3CAB55E315A2F15A00823AD9 /* AppDelegate.h */ = {isa = PBXFileReference; path = AppDelegate.h; sourceTree = "<group>"; };
+		3CAB55E215A2F15A00823AD9 /* NewProjectName-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NewProjectName-Prefix.pch"; sourceTree = "<group>"; };
+		3CAB55E315A2F15A00823AD9 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		3CAB55E415A2F15A00823AD9 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		3CAB55E615A2F15A00823AD9 /* RootViewController.h */ = {isa = PBXFileReference; path = RootViewController.h; sourceTree = "<group>"; };
+		3CAB55E615A2F15A00823AD9 /* RootViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RootViewController.h; sourceTree = "<group>"; };
 		3CAB55E715A2F15A00823AD9 /* RootViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RootViewController.m; sourceTree = "<group>"; };
-		3CAB55E915A2F15A00823AD9 /* DataViewController.h */ = {isa = PBXFileReference; path = DataViewController.h; sourceTree = "<group>"; };
+		3CAB55E915A2F15A00823AD9 /* DataViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DataViewController.h; sourceTree = "<group>"; };
 		3CAB55EA15A2F15A00823AD9 /* DataViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DataViewController.m; sourceTree = "<group>"; };
-		3CAB55EC15A2F15A00823AD9 /* ModelController.h */ = {isa = PBXFileReference; path = ModelController.h; sourceTree = "<group>"; };
+		3CAB55EC15A2F15A00823AD9 /* ModelController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ModelController.h; sourceTree = "<group>"; };
 		3CAB55ED15A2F15A00823AD9 /* ModelController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ModelController.m; sourceTree = "<group>"; };
 		3CAB55F015A2F15A00823AD9 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
